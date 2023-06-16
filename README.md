@@ -1,4 +1,4 @@
-### Hi there 👋
+### About me
 
 <!--
 **Sweb23/Sweb23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am studying computer science at ENSEEIHT (École nationale supérieure d'électrotechnique, d'électronique, d'informatique, d'hydraulique et des télécommunications) in Toulouse, France. 
+
+<!-- ## Languages and tools -->
+
+
+## Fun facts
+- 🎸 I play the bass guitar in a band
+- 🎮 I love video games, especially Civilization, Skyrim, Pokémon and Zelda
+- 🇫🇷 🇺🇸 I was born and raised in France but I have American roots.
+
