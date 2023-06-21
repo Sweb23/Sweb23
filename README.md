@@ -17,8 +17,17 @@ Here are some ideas to get you started:
 
 I am studying computer science at ENSEEIHT (École nationale supérieure d'électrotechnique, d'électronique, d'informatique, d'hydraulique et des télécommunications) in Toulouse, France. 
 
-<!-- ## Languages and tools -->
-
+## Languages and tools
+- 🐍 Python
+- 🐫 OCaml
+- 🕸️ HTML
+- 🖌️ CSS
+- 🖱️ Javascript
+- ☕ Java
+- ⚙️ Git
+- 🪟 Visual Studio Code
+- 🏢 Office Suite
+- 🐧 Linux
 
 ## Fun facts
 - 🎸 I play the bass guitar in a band
