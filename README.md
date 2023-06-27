@@ -29,6 +29,8 @@ I am studying computer science at ENSEEIHT (École nationale supérieure d'élec
 - 🏢 Office Suite
 - 🐧 Linux
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sweb23&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Fun facts
 - 🎸 I play the bass guitar in a band
 - 🎮 I love video games, especially Civilization, Skyrim, Pokémon and Zelda
